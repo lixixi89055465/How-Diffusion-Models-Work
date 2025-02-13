@@ -1,3 +1,7 @@
+'''
+https://github.com/lixixi89055465/How-Diffusion-Models-Work/blob/main/L1_Sampling.ipynb
+https://github.com/lixixi89055465/How-Diffusion-Models-Work/blob/main/diffusion_utilities.py
+'''
 from typing import Dict, Tuple
 from tqdm import tqdm
 import torch
